@@ -11,3 +11,4 @@ which is desirable for a safe and comfortable human-machine
 interaction. It is also proposed as future work, the evaluation of
 the trajectories generator in the exoskeleton model and control.
 
+This work has been published in the following link: https://ieeexplore.ieee.org/abstract/document/7750833
